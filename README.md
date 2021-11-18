@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://stackoverflow.com/cv/toledorobia](https://stackoverflow.com/cv/toledorobia)
 
-- ⚡ Fun fact **I from Chile, but I love west coast Hip-Hop**
+- ⚡ Fun fact **I'm from Chile, but I love west coast Hip-Hop**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
