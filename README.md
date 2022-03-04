@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [simplepad](https://react-simplepad.web.app)
 
-- 🌱 I’m currently learning **Vue 3.2**
+- 🌱 I’m currently learning **Android Native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/toledorobia](https://github.com/toledorobia)
 
