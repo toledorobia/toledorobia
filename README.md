@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/toledorobia](https://github.com/toledorobia)
 
-- 💬 Ask me about **react, vue, expressjs, laravel**
+- 💬 Ask me about **react, vue, expressjs, nestjs, laravel**
 
-- 📫 How to reach me **dev.toledorobia@outlook.com**
+- 📫 How to reach me **jonathan.toledo.dev@gmail.com**
 
 - 📄 Know about my experiences [https://stackoverflow.com/cv/toledorobia](https://stackoverflow.com/cv/toledorobia)
 
